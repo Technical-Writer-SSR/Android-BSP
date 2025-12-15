@@ -12,6 +12,19 @@
 ![CTS VTS Compliance](img.shields.io)
 ![License](img.shields.io)
 
+![Linux Kernel](img.shields.io)
+![Embedded Systems](img.shields.io)
+![Device Drivers](img.shields.io)
+![Block Device Driver](img.shields.io)
+![Android BSP](img.shields.io)
+![Android AOSP](img.shields.io)
+![HAL Development](img.shields.io)
+![Kernel Customization](img.shields.io)
+![U-Boot Bootloader](img.shields.io)
+![Yocto Project](img.shields.io)
+![CTS VTS Compliance](img.shields.io)
+![License](img.shields.io)
+
 
 
 
