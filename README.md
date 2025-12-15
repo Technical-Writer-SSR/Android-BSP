@@ -12,7 +12,7 @@
 ![CTS VTS Compliance](img.shields.io)
 ![License](img.shields.io)
 
-Android Board Support Package (BSP) - README
+
 https://img.shields.io/badge/Android-BSP-blue
 https://img.shields.io/badge/Android-AOSP-green
 https://img.shields.io/badge/Linux-Kernel-orange
@@ -154,7 +154,6 @@ https://img.shields.io/badge/Buildroot-Embedded-ff6347
 https://img.shields.io/badge/Open-Source-32cd32
 https://img.shields.io/badge/License-Mixed-8a2be2
 
-Overview
 
 
 ## Overview
